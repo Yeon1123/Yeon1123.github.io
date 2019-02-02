@@ -193,6 +193,34 @@ categories: others
 </ol>
 <br>
 <hr />
+<h3>Thursday, January 31st, 2019 / 21:00 to 24:00 / Avenue south </h3>
+<br>
+<h4>Attendant</h4>
+<p>유정연, 김현묵, 윤지애</p>
+<br>
+<h4>Today's goal</h4>
+<ol>
+<li>Upload video in github blog</li>
+<li>Make a presentation content and presentation</li>
+<li>Meeting about next plan</li>
+</ol>
+<br>
+<h4>Today's work</h4>
+<ul>
+<li>Update video to youtube(<a href="https://youtu.be/Dkv5OnhuUEU">Here is the link</a>)</li>
+<li>Make presentation synopsis</li>
+<li>Try code revision</li>
+<li>Later research direction</li>
+</ul>
+<br>
+<h4>What we will do</h4>
+<ol>
+<li>Code analysis</li>
+<li>Make presentation script</li>
+<li>Prepare question and answer</li>
+</ol>
+<br>
+<hr />
 <h3>What to do next week</h3>
 <ol>
 <li>Install irrigation system for our farms</li>
