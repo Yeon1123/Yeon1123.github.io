@@ -35,7 +35,7 @@ categories: others
 <li>Communicate more than 50m</li>
 </ol>
 <br>
-<h4>What will we do</h4>
+<h4>What we will do</h4>
 <ol>
 <li>Communication distance measurement</li>
 <li>Doing downlink[from Computer to Sensor]</li>
@@ -82,7 +82,7 @@ categories: others
 <li>Pump coding with Arduino</li>
 </ol>
 <br>
-<h4>What will we do</h4>
+<h4>What we will do</h4>
 <ol>
 <li>Parsing Data</li>
 <li>Buying antenna converter</li>

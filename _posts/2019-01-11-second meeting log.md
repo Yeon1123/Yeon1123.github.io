@@ -184,7 +184,7 @@ categories: others
 <li>Find Indianapolis’ annual temperature data</li>
 </ol>
 <br>
-<h4>What will we do</h4>
+<h4>What we will do</h4>
 <ol>
 <li>Give sensor data to the Thingspeak</li>
 <li>Gather data to the Thingspeak</li>
