@@ -33,7 +33,7 @@ categories: others
 <li>Making mini farm</li>
 </ol>
 <br>
-<h4>What will we do</h4>
+<h4>What we will do</h4>
 <ol>
 <li>Making mini farm</li>
 </ol>
@@ -72,7 +72,7 @@ categories: others
 <li>Updated video about sawing and nailing</li>
 </ul>
 <br>
-<h4>What will we do</h4>
+<h4>What we will do</h4>
 <ol>
 <li>Finish make mini farm</li>
 </ol>
@@ -126,7 +126,7 @@ categories: others
 <li>Check multi sensor(Coding)/li>
 </ol>
 <br>
-<h4>What will we do</h4>
+<h4>What we will do</h4>
 <ol>
 <li>Coding multi sensor</li>
 </ol>
@@ -160,7 +160,7 @@ categories: others
 <li>Downloading Data regularly[Using windows environment]</li>
 </ol>
 <br>
-<h4>What will we do</h4>
+<h4>What we will do</h4>
 <ol>
 <li>If the code doesn’t work well, find another way to save data</li>
 </ol>
