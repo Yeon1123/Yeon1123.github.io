@@ -2,7 +2,6 @@
 layout: post
 title:  "Purdue"
 categories: others
-
 ---
 
 <h1>퍼듀 글로벌 인재트랙 후기</h1>
