@@ -33,6 +33,7 @@ categories: others
  
 <h3>생활</h3>
 <p> 집 근처에 갈 수 있는 마트는 두개입니다. Maijer와 Walmart인데 마이어는 걸어갈 수 있어요. 월마트는 꼭 버스타고 갑시다. </p>
+
 ![default](https://user-images.githubusercontent.com/45284756/53200387-66395500-35ef-11e9-89d8-ab76b15b6615.JPG)
 <p>마이어 지도</p>
  
