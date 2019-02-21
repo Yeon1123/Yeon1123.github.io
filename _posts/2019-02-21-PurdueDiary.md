@@ -12,12 +12,14 @@ categories: others
  
  
  
- <center> ![room](C:\Users\Yeon\Desktop\퍼듀 사진용\room.jpg)
- [방]</center>
- <center> ![](C:\Users\Yeon\Desktop\퍼듀 사진용\거실.jpg)
-[거실]</center>
-<center>  ![](C:\Users\Yeon\Desktop\퍼듀 사진용\주방.jpg)
-[주방]</center>
+![room](https://user-images.githubusercontent.com/45284756/53200297-35592000-35ef-11e9-964e-1e85f160c237.jpg)
+<p>방</p>
+
+![default](https://user-images.githubusercontent.com/45284756/53200350-51f55800-35ef-11e9-8b54-10c531bca062.jpg)
+<p>거실</p>
+
+![default](https://user-images.githubusercontent.com/45284756/53200368-5c175680-35ef-11e9-832c-48b5e089351d.jpg)
+<p>주방</p>
  
  
  
@@ -31,11 +33,12 @@ categories: others
  
 <h3>생활</h3>
 <p> 집 근처에 갈 수 있는 마트는 두개입니다. Maijer와 Walmart인데 마이어는 걸어갈 수 있어요. 월마트는 꼭 버스타고 갑시다. </p>
- <center> ![](C:\Users\Yeon\Desktop\퍼듀 사진용\마이어.jpg)
- [마이어 지도]</center>
+![default](https://user-images.githubusercontent.com/45284756/53200387-66395500-35ef-11e9-89d8-ab76b15b6615.JPG)
+<p>마이어 지도</p>
  
-  <center>![](C:\Users\Yeon\Desktop\퍼듀 사진용\월마트.jpg)
- [월마트 지도]</center>
+ 
+![default](https://user-images.githubusercontent.com/45284756/53200404-75b89e00-35ef-11e9-8dbc-e9df8688f95d.JPG)
+<p>마이어 지도</p>
  
 <p> 바로 길 건너편으로 식당이 몇 개 있습니다. 피자, 치킨 판매점이고 꽤 먹을만 한데 길 건널 때 조심하셔야 합니다. 가운데에 길 나누는 풀이 없는쪽으로 가서 건너세요. 다칠 수 있습니다. 마이어 가는 길에 GAZA Korean Grill이라는 곳이 한국 식당인데 가격은 12달러가 평균입니다. 한식이 드시고 싶을 때 갈 수 있는 곳이에요. 그 가게 바로 옆엔 하나마트라는 한인 마트가 있어요. 김치나 떡볶이같은 어지간한 한국 레토르트는 다 팔지만 한국보다 많이 비쌉니다.</P>
  
